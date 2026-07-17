@@ -1,0 +1,4 @@
+Hello!
+welcome to a Java FTP Socket Programming experiment.
+THIS is your host Deeraj!!! *drums boom*
+Have a nice day!
